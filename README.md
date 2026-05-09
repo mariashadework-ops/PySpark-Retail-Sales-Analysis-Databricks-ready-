@@ -1,2 +1,7 @@
-# PySpark-Retail-Sales-Analysis-Databricks-ready-
-A practical data analysis project using PySpark in a Databricks environment that processes superstore retail data. It demonstrates data loading, transformation, Spark SQL, and analytical insights from retail sales — suitable for showcasing distributed data analytics on a real dataset. The repository includes a PySpark notebook and dataset.
+## Retail Sales Analysis Using PySpark on Databricks
+This project is dedicated to performing an in-depth analysis of retail sales data using Apache Spark in the Databricks environment. Databricks provides a unified platform that integrates data processing, machine learning, and analytics, making it an ideal tool for handling large-scale retail data efficiently.
+
+### Tools and Technologies:
+- Databricks: Leveraged as the development environment, offering seamless integration with Apache Spark for distributed data processing and scalable analytics.
+- PySpark: Used to process and analyze large datasets, allowing for efficient data manipulation and complex transformations.
+- SQL: Employed within PySpark for querying data, aggregating metrics, and performing detailed analyses.
